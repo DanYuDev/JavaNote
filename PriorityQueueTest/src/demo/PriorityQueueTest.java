@@ -15,7 +15,7 @@ public class PriorityQueueTest {
 		for(LocalDate date:pq) {
 			System.out.println(date);
 		}
-		
+		Object
 		System.out.println("Removing elements...");
 		while(!pq.isEmpty()) {
 			System.out.println(pq.remove());
